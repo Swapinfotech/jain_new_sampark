@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "954217527630",
+    "firebase_url": "https://jain-sampark.firebaseio.com",
+    "project_id": "jain-sampark",
+    "storage_bucket": "jain-sampark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954217527630:android:a160b920aabe445f",
+        "android_client_info": {
+          "package_name": "com.jainsampak.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954217527630-gsk5a50fp9pjmo336bihgprlgivto69o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaGXT-cCJGPLvtzVYMnP7uZHW1HdSmwwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

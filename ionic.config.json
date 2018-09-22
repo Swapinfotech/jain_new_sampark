@@ -1,0 +1,13 @@
+{
+  "name": "sampark",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "proxies": [
+    {
+      "path": "/sms_authenticate",
+      "proxyUrl": "http://sampark.darshantraavels.com/wp-json/api/v1/sms_authenticate"
+    }
+  ]
+}

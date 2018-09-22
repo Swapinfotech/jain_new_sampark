@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">954217527630-gsk5a50fp9pjmo336bihgprlgivto69o.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://jain-sampark.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">954217527630</string>
+    <string name="google_api_key" translatable="false">AIzaSyDaGXT-cCJGPLvtzVYMnP7uZHW1HdSmwwE</string>
+    <string name="google_app_id" translatable="false">1:954217527630:android:a160b920aabe445f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDaGXT-cCJGPLvtzVYMnP7uZHW1HdSmwwE</string>
+    <string name="google_storage_bucket" translatable="false">jain-sampark.appspot.com</string>
+    <string name="project_id" translatable="false">jain-sampark</string>
+</resources>

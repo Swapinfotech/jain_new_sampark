@@ -1,0 +1,4 @@
+#Wed Sep 19 18:25:54 IST 2018
+base.0=/home/pc/jainsampark/platforms/android/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
